@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Christopher-leh/Christopher-leh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm a mathematics student in my 7th semester in Regensburg, passionate about:
+- **Partial Differential Equations (PDEs)**
+- **Machine Learning**
+- 
 
-Here are some ideas to get you started:
+I primarily work with Python and C to explore the synergy between mathematics, programming, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- getting into machine learning
+- writing my bachelor thesis about stokes problem
+- learning more about pyhton and c
+
+
+
+### License
+
+This repository is under the [MIT License](./LICENSE). Feel free to explore and contribute!
