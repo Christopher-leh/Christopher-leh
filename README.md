@@ -9,8 +9,3 @@ Welcome! I'm a mathematics student in my 7th semester in Regensburg, passionate 
 - writing my bachelor thesis about stokes problem
 - learning more about pyhton and c
 
-
-
-### License
-
-This repository is under the [MIT License](./LICENSE). Feel free to explore and contribute!
