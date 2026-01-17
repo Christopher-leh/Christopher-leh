@@ -19,10 +19,12 @@ My academic and practical interests are moving increasingly toward
 - **Fluid Simulation in Python**  
   A 2D numerical solver for the incompressible Navier–Stokes equations (semi-Lagrangian advection, FFT-based projection).
 
+  - **Bias Correction of Regional Climate Models using Neural Networks** 
+  Applying machine learning methods to reduce systematic errors in climate model outputs.
+
 - **CNN-Based Binary Segmentation** *(upcoming)*  
   Building and training convolutional neural networks for pixel-wise segmentation tasks.
 
-- **Bias Correction of Regional Climate Models using Neural Networks** *(upcoming)*  
-  Applying machine learning methods to reduce systematic errors in climate model outputs.
+
 
 
